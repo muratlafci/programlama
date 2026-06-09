@@ -1,0 +1,26 @@
+<Solution>
+  <Project Path="ilkProje/proje1.csproj" />
+  <Project Path="proje10/proje10.csproj" Id="92e0e51f-277b-44c7-a8d0-b917cfd06a22" />
+  <Project Path="proje11/proje11.csproj" Id="d08ec27f-74e5-487f-97a7-46310743ff6c" />
+  <Project Path="proje12/proje12.csproj" Id="f2443944-766f-460b-973d-4cd6e326dec2" />
+  <Project Path="proje13/proje13.csproj" Id="40d00577-8309-4f88-8ea4-21b67db10bcd" />
+  <Project Path="proje14/proje14.csproj" Id="fe721b1c-f75b-4021-b8c3-38857e4c57ff" />
+  <Project Path="proje15/proje15.csproj" Id="c1f53c4a-d4b8-4232-a534-8525957865fd" />
+  <Project Path="proje16/proje16.csproj" Id="8a6ce372-c326-4903-95ea-e51e6cb29aae" />
+  <Project Path="proje17/proje17.csproj" Id="688a4a0f-1c89-43fe-b39a-56ea9a7d0e0f" />
+  <Project Path="proje18/proje18.csproj" Id="f3218311-ea07-4458-ab10-0f439ec5bfdb" />
+  <Project Path="proje19/proje19.csproj" Id="db1ba1e3-2cda-4bdb-b7a6-78b7e5ba5e8a" />
+  <Project Path="proje2/proje2.csproj" />
+  <Project Path="proje20/proje20.csproj" Id="076d659c-7243-4bc6-a1a1-f1bcf8898bb3" />
+  <Project Path="proje21/proje21.csproj" Id="2f31b663-6e57-4191-9ff2-1c1de5aa6167" />
+  <Project Path="proje22/proje22.csproj" Id="c72b569d-5c30-4b91-a36e-4a301dc1a96e" />
+  <Project Path="proje23/proje23.csproj" Id="d2e3df00-c626-4289-800e-61603f654b01" />
+  <Project Path="proje24/proje24.csproj" Id="6f4791aa-ebe1-4af1-b1f8-7510ba3b67ab" />
+  <Project Path="proje3/proje3.csproj" Id="a1ca016b-0712-46ef-a513-5516b78b2893" />
+  <Project Path="proje4/proje4.csproj" Id="95a7533d-5fae-4689-87cc-0e4464def5a1" />
+  <Project Path="proje5/proje5.csproj" Id="3a12675b-4582-4cf1-bebf-2c8e6c8b84ce" />
+  <Project Path="proje6/proje6.csproj" Id="065a3479-650f-4a74-a647-548902d9ef52" />
+  <Project Path="proje7/proje7.csproj" Id="aa52231c-63fd-4890-b0b5-1a896b8554d0" />
+  <Project Path="proje8/proje8.csproj" Id="0b2a6a64-71e2-4b14-9e6b-dfcf62313af5" />
+  <Project Path="proje9/proje9.csproj" Id="2ce75dce-2b9a-4ef1-ba47-eed0a1f2d38b" />
+</Solution>
